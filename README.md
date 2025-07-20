@@ -273,23 +273,12 @@ Override component styles using Tailwind classes:
 2. **Timezone**: Currently uses local timezone only
 3. **Year Range**: Default preview limited to 2 years when no end date
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch: `git checkout -b feature/amazing-feature`
-3. Commit changes: `git commit -m 'Add amazing feature'`
-4. Push to branch: `git push origin feature/amazing-feature`
-5. Open a Pull Request
 
 ### Development Guidelines
 - Write tests for new features
 - Follow TypeScript best practices
 - Use semantic design tokens
 - Maintain accessibility standards
-
-## 📝 License
-
-MIT License - see LICENSE file for details
 
 ## 🙏 Acknowledgments
 
@@ -299,5 +288,3 @@ MIT License - see LICENSE file for details
 - Styled with Tailwind CSS design system
 
 ---
-
-**Built with ❤️ by [Your Name]**
